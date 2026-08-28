@@ -1,0 +1,6 @@
+.idea/
+.vscode
+.env*
+!.env.example
+__debug*
+/redirectr
